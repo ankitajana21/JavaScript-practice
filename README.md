@@ -1,1 +1,1 @@
-# JavaScript-practice-freecodecamp
+# JavaScript-practice
